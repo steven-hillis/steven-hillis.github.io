@@ -6,4 +6,4 @@ permalink: /about/
 
 Living in Denver. Previously Pittsburgh, Cape Girardeau, and St Louis. 
 Married, two cats, no kids. Computers, langugae, and economics. Working 
-at [hyperia ai][https://hyperia.net/].
+at [hyperia ai](https://hyperia.net/).
