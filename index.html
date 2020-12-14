@@ -5,11 +5,9 @@ layout: default
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
-    
-    {% if post.content.size > post.excerpt.size %}
-      <p><a href="{{ post.url }}">(READ MORE)</a></p>
-    {% endif %}
-
+      {% if post.content.size > post.excerpt.size %}
+        <p><a href="{{ post.url }}">(READ MORE)</a></p>
+      {% endif %}
     </article>
   {% endfor %}
 </div>
