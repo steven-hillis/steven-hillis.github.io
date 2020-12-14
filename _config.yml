@@ -18,7 +18,7 @@ avatar: https://avatars3.githubusercontent.com/u/43649063?s=400&u=d046947542f072
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: stevenrhillis@gmail.com
   facebook:
   flickr:
   github: stevenhillis
@@ -85,4 +85,4 @@ exclude:
   - README.md
   - CNAME
 
-theme: jekyll-theme-now
+theme: jekyll-theme-minimal
