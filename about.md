@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+Hi! Thanks for visiting my website. Here's some stuff about me: 
+
 Living in Denver. Previously Pittsburgh, Cape Girardeau, and St Louis. 
 Married, two cats, no kids; interested in computers, language, and economics.
 
