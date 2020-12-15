@@ -11,4 +11,4 @@ Past positions include Data Science Intern at [Federal Reserve Bank of Cleveland
 
 Areas of experience: speech recognition (including error correction and contextualization), speaker diarization, abstract summarization, grapheme-to-phoneme conversion, and low-resource languages.  
 
-Seeking fulltime employment.
+Seeking fulltime employment. [Resume]({{ site.url }}/assets/steven_hillis_resume.pdf).
