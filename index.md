@@ -1,6 +1,5 @@
 ---
 layout: default
-permalink: /about/
 ---
 
 Hi! Thanks for visiting my website. Here's some stuff about me!
